@@ -1,4 +1,4 @@
-# 🔄 SkillSwap Backend API
+#  SkillSwap Backend API
 
 **Peer-to-Peer Skill Exchange Platform (Ongoing Project)**
 
@@ -6,17 +6,17 @@ SkillSwap is a backend system designed for a platform where users can **exchange
 
 ---
 
-## 🚀 Features
+##  Features
 
-* 👤 User authentication and management
-* 🔁 Send, accept, and reject skill exchange requests
-* 📅 Session handling and scheduling *(in progress)*
-* 💬 Backend support for real-time chat *(planned)*
-* 🔗 RESTful API architecture
+*  User authentication and management
+*  Send, accept, and reject skill exchange requests
+*  Session handling and scheduling *(in progress)*
+*  Backend support for real-time chat *(planned)*
+*  RESTful API architecture
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 * **Node.js**
 * **Express.js**
@@ -24,7 +24,7 @@ SkillSwap is a backend system designed for a platform where users can **exchange
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```bash
 Skillswap_Backend/
@@ -38,7 +38,7 @@ Skillswap_Backend/
 
 ---
 
-## ⚙️ Configuration (IMPORTANT)
+##  Configuration (IMPORTANT)
 
 Create a `.env` file in the root directory:
 
@@ -62,22 +62,22 @@ require("dotenv").config();
 
 ---
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
-### 1️⃣ Clone the repository
+### 1️ Clone the repository
 
 ```bash
 git clone https://github.com/Manjukarwasraa/Skillswap_Backend.git
 cd Skillswap_Backend
 ```
 
-### 2️⃣ Install dependencies
+### 2️ Install dependencies
 
 ```bash
 npm install
 ```
 
-### 3️⃣ Run the server
+### 3️ Run the server
 
 ```bash
 npm start
@@ -85,7 +85,7 @@ npm start
 
 ---
 
-## 🔗 API Capabilities
+##  API Capabilities
 
 * User APIs (Register / Login)
 * Skill request APIs (Send / Accept / Reject)
@@ -93,14 +93,14 @@ npm start
 
 ---
 
-## ⚠️ Project Status
+##  Project Status
 
-🚧 This project is currently under development.
+ This project is currently under development.
 Core backend functionalities are implemented, and advanced features like **session workflows and real-time chat** are being enhanced.
 
 ---
 
-## 🌱 Future Improvements
+##  Future Improvements
 
 * Real-time chat using **Socket.io**
 * Advanced session scheduling
@@ -109,7 +109,7 @@ Core backend functionalities are implemented, and advanced features like **sessi
 
 ---
 
-## 👩‍💻 Contribution
+##  Contribution
 
 * Worked as **Backend Developer (Team Lead)**
 * Designed API structure and handled core backend logic
@@ -117,7 +117,7 @@ Core backend functionalities are implemented, and advanced features like **sessi
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Manju Karwasra**
 
